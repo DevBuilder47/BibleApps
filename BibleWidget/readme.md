@@ -5,6 +5,8 @@ BibleVerseWidget:
 Overview:
 - Displays selected or random verses from the 1671 King James Bible (KJV) in passive flashcard manner that floats on your screen
 
+![Alt text](bibleversewidget.png "Bible Verse Widget main screen")
+
 
 Always On Screen Widget:
 - Pin: Click the pin to reposition or resize
