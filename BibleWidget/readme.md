@@ -42,7 +42,7 @@ Topics:
 
 Word Clouds:
 -Display Topic Clouds or Chapter's', Book's, or the Entire Bible's Word clouds
-![Alt text](bibleversewidget-topics.png "Word Clouds")
+![Alt text](bibleversewidget-cloud.png "Word Clouds")
 
 
 Settings:
