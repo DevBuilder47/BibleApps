@@ -36,12 +36,12 @@ Favorites:
 
 
 Topics:
--Display a list of topics, correlated verses of the topic and the verse
+- Display a list of topics, correlated verses of the topic and the verse
 ![Alt text](bibleversewidget-topics.png "Topics")
 
 
 Word Clouds:
--Display Topic Clouds or Chapter's', Book's, or the Entire Bible's Word clouds
+- Display Topic Clouds or Chapter's', Book's, or the Entire Bible's Word clouds
 ![Alt text](bibleversewidget-cloud.png "Word Clouds")
 
 
