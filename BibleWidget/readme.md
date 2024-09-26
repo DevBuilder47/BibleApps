@@ -1,11 +1,14 @@
------------------
+﻿-----------------
 BibleVerseWidget:
 -----------------
 
 Overview:
-- Displays selected or random verses from the 1671 King James Bible (KJV) in passive flashcard manner that floats on your screen
+- Displays selected or a random verses from the 1671 King James Bible (KJV) in passive flashcard manner that floats on your screen and speaks using Text to Speech.
 
-![Alt text](bibleversewidget.png "Bible Verse Widget main screen")
+- You can easily read the rest of the chapter by clicking the 'v' verse reader button or the 'T' icon to view the topic.
+- You can also see the Chapter's', Book's, or the Entire Bible's Word cloud too by clicking the cloud icon.
+
+![Alt text](bibleversewidget.png "Bible Verse Widget main widget")
 
 
 Always On Screen Widget:
@@ -16,17 +19,30 @@ Always On Screen Widget:
 - 'v': to display the Verse Reader window
 - Heart icon: click to save the current verse to the Favorites
 - List icon: to see your list favorites
+- 'T': displays the verse's topic and related verses
 - Gear icon: to adjust the app's settings
 
 
-Verse Reader:
+Verse Text Reader:
 - Verse Reader with UI widgets
-- Topic Reference List
-- Reference Verse
+- Reference List
+- Selected Reference Verse
+![Alt text](bibleversewidgt-text_reader.png "Verse Text Reader")
 
 
 Favorites:
 - Displays Book,Chapter,Verse and passage
+![Alt text](bibleversewidget-favorites_list.png "Favorites List")
+
+
+Topics:
+-Display a list of topics, correlated verses of the topic and the verse
+![Alt text](bibleversewidget-topics.png "Topics")
+
+
+Word Clouds:
+-Display Topic Clouds or Chapter's', Book's, or the Entire Bible's Word clouds
+![Alt text](bibleversewidget-topics.png "Word Clouds")
 
 
 Settings:
@@ -39,7 +55,7 @@ Settings:
 
 -----------------          
 ChangeLog:
--
+- v0.2 Added support for Topics and Word Clouds
 
 
 -----------------
@@ -48,3 +64,11 @@ Acknowledgments:
 - Icon:
     Creative Commons (Attribution 3.0 Unported)
     Alpár-Etele Méder
+- Cloud Icon:
+    Creative Commons (Attribution 3.0 Unported)
+    Web Lab X
+
+
+-----------------
+Suggestions?
+ - d e v @ s o u e r s . o r g
