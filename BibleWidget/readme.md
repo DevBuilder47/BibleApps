@@ -2,13 +2,17 @@
 BibleVerseWidget:
 -----------------
 
+Do you need an easy way to memorize bible verses while you work on your pc? If so this is the app for you!
+
+![Alt text](bibleversewidget.png "Bible Verse Widget main widget")
+
 Overview:
 - Displays selected or a random verses from the 1671 King James Bible (KJV) in passive flashcard manner that floats on your screen and speaks using Text to Speech.
 
 - You can easily read the rest of the chapter by clicking the 'v' verse reader button or the 'T' icon to view the topic.
 - You can also see the Chapter's', Book's, or the Entire Bible's Word cloud too by clicking the cloud icon.
 
-![Alt text](bibleversewidget.png "Bible Verse Widget main widget")
+![Alt text](bibleversewidget_help.png "Bible Verse Widget help information")
 
 
 Always On Screen Widget:
@@ -60,7 +64,7 @@ ChangeLog:
 
 -----------------
 Acknowledgments:
-- Bible Text: http://bgfdb.de/zefaniaxml/bml/
+- Bible, Topics, and Dictionary Text: http://bgfdb.de/zefaniaxml/bml/
 - Icon:
     Creative Commons (Attribution 3.0 Unported)
     Alpár-Etele Méder
