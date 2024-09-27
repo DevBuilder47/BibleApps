@@ -2,7 +2,7 @@
 BibleVerseWidget:
 -----------------
 
-Do you need an easy way to memorize bible verses while you work on your pc? If so this is the app for you!
+Do you need an easy way to memorize bible verses while you work on your pc? If so this app is for you!
 
 ![Alt text](bibleversewidget.png "Bible Verse Widget main widget")
 
