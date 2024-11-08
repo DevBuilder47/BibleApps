@@ -11,6 +11,10 @@ Overview:
 - You can easily read the rest of the chapter by clicking the 'v' verse reader button or the 'T' icon to view the topic.
 - You can also see the Chapter's', Book's, or the Entire Bible's Word cloud too by clicking the cloud icon.
 
+Install:
+[setup.exe](setup.exe)
+
+
 ![Alt text](bibleversewidget_help.png "Bible Verse Widget help information")
 
 
