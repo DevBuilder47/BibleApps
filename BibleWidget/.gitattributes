@@ -1,3 +1,4 @@
 *.vsto binary
 *.deploy binary
 *.manifest binary
+*.xml binary
