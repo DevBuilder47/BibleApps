@@ -4,7 +4,7 @@ BibleVerseWidget:
 
 Do you need an easy way to memorize bible verses while you work on your pc? If so, this Bible Verse Memorization app is for you!
 
-![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/(bibleversewidget.png "Bible Verse Widget main widget")
+![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget.png "Bible Verse Widget main widget")
 
 Overview:
 - Displays selected or a random verses from the 1671 King James Bible (KJV) in passive flashcard manner that floats on your screen and speaks using Text to Speech.
