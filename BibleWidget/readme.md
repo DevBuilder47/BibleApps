@@ -12,6 +12,7 @@ Overview:
 - You can also see the Chapter's', Book's, or the Entire Bible's Word cloud too by clicking the cloud icon.
 
 Install:
+- Download the latest version here: [BibleVerseWidget](https://github.com/DevBuilder47/BibleApps/tree/main/BibleWidget/BibleVerseWidget_1.4.zip)
 - Extract the zip file and double-click BibleVerseWidget.exe to run
 
 
