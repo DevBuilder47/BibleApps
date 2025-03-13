@@ -4,7 +4,7 @@ BibleVerseWidget:
 
 Do you need an easy way to memorize bible verses while you work on your pc? If so, this Bible Verse Memorization app is for you!
 
-![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget.png "Bible Verse Widget main widget")
+![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/(bibleversewidget.png "Bible Verse Widget main widget")
 
 Overview:
 - Displays selected or a random verses from the 1671 King James Bible (KJV) in passive flashcard manner that floats on your screen and speaks using Text to Speech.
@@ -12,7 +12,6 @@ Overview:
 - You can also see the Chapter's', Book's, or the Entire Bible's Word cloud too by clicking the cloud icon.
 
 Install:
-- Download the latest version here: [BibleVerseWidget](https://devbuilder47.github.io/BibleApps/BibleWidget/BibleVerseWidget_1.4.zip)
 - Extract the zip file and double-click BibleVerseWidget.exe to run
 
 
@@ -74,6 +73,8 @@ Settings:
 
 -----------------          
 ChangeLog:
+- v1.6 Added Word and Topic search, improved readability of multi verses and bugfixes
+- v1.5 Bugfixes
 - v1.4 UI improvements, added support for Word Cloud lookup topics and words, and updater
 - v1.3 Added support for SubTopics
 - v1.2 Added support for Topics and Word Clouds
