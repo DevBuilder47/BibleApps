@@ -4,12 +4,17 @@ PrayerReminder:
 
 Do you need an easy way to rember to pray for others each day, if so this app is for you!
 
-![Alt text](PrayerReminder.png "Prayer Reminders widget")
+![Prayer Reminders widget](https://devbuilder47.github.io/BibleApps/PrayerReminder/PrayerReminder.png)
 
 Overview:
-- This is an Always On Screen Widget, Prayer Reminder with autoclose and open on first computer boot of the day
+- Prayer Reminder widget with autoclose and open on first computer boot of the day options
 
-![Alt text](PrayerReminder_help.png "Prayer Reminders help information")
+![Prayer Reminders help information](https://devbuilder47.github.io/BibleApps/PrayerReminder/PrayerReminder_help.png)
+
+
+Install:
+- Download and run: ![https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/PrayerReminder/PrayerReminder_v1_0.exe](https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/PrayerReminder/PrayerReminder_v1_0.exe)
+- Double-click BibleVerseWidget.exe to run
 
 
 Always On Screen Widget:
