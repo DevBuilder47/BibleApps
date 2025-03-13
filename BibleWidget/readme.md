@@ -4,7 +4,7 @@ BibleVerseWidget:
 
 Do you need an easy way to memorize bible verses while you work on your pc? If so, this Bible Verse Memorization app is for you!
 
-![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/Bibleversewidget.png "Bible Verse Widget main widget")
+![Bible Verse Widget main widget](https://devbuilder47.github.io/BibleApps/BibleWidget/Bibleversewidget.png)
 
 Overview:
 - Displays selected or a random verses from the 1671 King James Bible (KJV) in passive flashcard manner that floats on your screen and speaks using Text to Speech.
@@ -12,11 +12,11 @@ Overview:
 - You can also see the Chapter's', Book's, or the Entire Bible's Word cloud too by clicking the cloud icon.
 
 Install:
-- Download and run: ![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/BibleVerseWidget_v1_6.exe "BibleVerseWidget_setup.exe")
+- Download and run: ![BibleVerseWidget_setup.exe](https://devbuilder47.github.io/BibleApps/BibleWidget/BibleVerseWidget_v1_6.exe)
 - Double-click BibleVerseWidget.exe to run
 
 
-![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget_help.png "Bible Verse Widget help information")
+![Bible Verse Widget help information](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget_help.png)
 
 
 Always On Screen Widget:
@@ -36,31 +36,31 @@ Verse Text Reader:
 - Reference List
 - Selected Reference Verse
 
-![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidgt-text_reader.png "Verse Text Reader")
+![Verse Text Reader](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidgt-text_reader.png)
 
 
 Favorites:
 - Displays Book,Chapter,Verse and passage
 
-![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget-favorites_list.png "Favorites List")
+![Favorites List](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget-favorites_list.png)
 
 
 Topics:
 - Display a list of topics, correlated verses of the topic and the verse
 
-![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget-topics.png "Topics")
+![Topics](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget-topics.png)
 
 Word:
 - Display correlated verses of the word and the verse
 - Button to see Word Cloud of all text in the Bible
 
-![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget-topics.png "Topics")
+![Word](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget-topics.png)
 
 
 Word Clouds:
 - Display Topic Clouds or Chapter's', Book's, or the Entire Bible's Word clouds
 
-![Alt text](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget-cloud.png "Word Clouds")
+![Word Clouds](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget-cloud.png)
 
 
 Settings:
