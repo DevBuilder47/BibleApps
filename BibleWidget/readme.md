@@ -12,7 +12,8 @@ Overview:
 - You can also see the Chapter's', Book's, or the Entire Bible's Word cloud too by clicking the cloud icon.
 
 Install:
-- Download and run: ![https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_6.exe](https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_6.exe)
+- Install ![Microsoft's .Net 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.18-windows-x64-installer)
+- Download and run: ![https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_7_setup.exe](https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_7_setup.exe)
 - Double-click BibleVerseWidget.exe to run
 
 
@@ -74,6 +75,7 @@ Settings:
 
 -----------------          
 ChangeLog:
+- v1.7 Rewrote as WPF app with latest .Net 8.0, Added fullscreen mode available through left hand expander, multiple UI enhancements and favorites support
 - v1.6 Added Word and Topic search, improved readability of multi verses and bugfixes
 - v1.5 Bugfixes
 - v1.4 UI improvements, added support for Word Cloud lookup topics and words, and updater
