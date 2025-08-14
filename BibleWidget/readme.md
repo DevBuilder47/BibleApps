@@ -4,7 +4,7 @@ BibleVerseWidget:
 
 ![Bible Verse Widget icon](https://devbuilder47.github.io/BibleApps/BibleWidget/bible.png)
 
-Do you need an easy way to memorize bible verses while you work on your pc? If so, this Bible Verse Memorization app is for you!
+Do you need an easy way to memorize bible verses while you work on your pc? If so, this Bible Verse Widget memorization app is for you!
 
 ![Bible Verse Widget main widget](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget.png)
 
@@ -121,3 +121,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
