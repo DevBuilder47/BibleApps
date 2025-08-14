@@ -8,3 +8,7 @@ Collection of apps for Windows that will help you in learning various bible vers
 <!--Begin TheFreeSite.com Coding -->
 <A HREF="http://www.thefreesite.com" TARGET="_top">
 <IMG SRC="http://www.thefreesite.com/free88.gif" WIDTH="88" HEIGHT="31" ALT="The Free Site!" BORDER="0" ALIGN="BOTTOM"></A>
+
+<A HREF="http://www.freewareweb.com/">
+<IMG SRC="https://www.freewareweb.com/featuredat.gif" alt="Your Freeware Download Source!" BORDER=0>
+</A>
