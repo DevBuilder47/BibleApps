@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.1.1.50 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Derek Souers</Company_Name>
+		<Address_1 />
+		<Address_2 />
+		<City_Town />
+		<State_Province />
+		<Zip_Postal_Code />
+		<Country />
+		<Company_WebSite_URL />
+		<Contact_Info>
+			<Author_First_Name>Derek</Author_First_Name>
+			<Author_Last_Name>Souers</Author_Last_Name>
+			<Author_Email>dev@souers.org</Author_Email>
+			<Contact_First_Name>Derek</Contact_First_Name>
+			<Contact_Last_Name>Souers</Contact_Last_Name>
+			<Contact_Email>dev@souers.org</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email />
+			<Support_Email>dev@souers.org</Support_Email>
+			<General_Email>dev@souers.org</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>BibleVerseWidget</Program_Name>
+		<Program_Version>1.7</Program_Version>
+		<Program_Release_Month>08</Program_Release_Month>
+		<Program_Release_Day>14</Program_Release_Day>
+		<Program_Release_Year>2025</Program_Release_Year>
+		<Program_Cost_Dollars />
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>Minor Update</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Other</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info>Redesigned GUI</Program_Change_Info>
+		<Program_Specific_Category>Education</Program_Specific_Category>
+		<Program_Category_Class>Education::Other</Program_Category_Class>
+		<Program_System_Requirements>WIndows 10 or higher and .Net 8</Program_System_Requirements>
+		<File_Info>
+			<File_Size_Bytes>11039853</File_Size_Bytes>
+			<File_Size_K>10781</File_Size_K>
+			<File_Size_MB>10.53</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>Bible Verse, Widget, Onscreen, Always OnTop, Flashcard</Keywords>
+			<Char_Desc_45>Displays a verses from the KJV in a flashcard</Char_Desc_45>
+			<Char_Desc_80>Displays selected or a random verses from the 1671 KJV in passive flashcard way.</Char_Desc_80>
+			<Char_Desc_250>Do you need an easy way to memorize bible verses while you work on your pc? If so, this Bible Verse Memorization app is for you!</Char_Desc_250>
+			<Char_Desc_450>Do you need an easy way to memorize bible verses while you work on your pc? If so, this Bible Verse Memorization app is for you!</Char_Desc_450>
+			<Char_Desc_2000>Do you need an easy way to memorize bible verses while you work on your pc? If so, this Bible Verse Memorization app is for you!</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>https://github.com/DevBuilder47/BibleApps</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>https://github.com/DevBuilder47/BibleApps/blob/main/BibleWidget/bibleversewidget.png?raw=true</Application_Screenshot_URL>
+			<Application_Icon_URL>https://github.com/DevBuilder47/BibleApps/blob/main/BibleWidget/bible.png?raw=true</Application_Icon_URL>
+			<Application_XML_File_URL>https://github.com/DevBuilder47/BibleApps/blob/main/BibleWidget/pad_file.xml?raw=true</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_7_setup.exe</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>No modification of the setup program</Distribution_Permissions>
+		<EULA>Copyright (c) 2025 Derek Souers
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software with the following restrictions, no decompiling, no modifying, no merging, no sublicensing, and/or no selling
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</EULA>
+	</Permissions>
+</XML_DIZ_INFO>
