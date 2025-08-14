@@ -3,3 +3,8 @@ Collection of apps for Windows that will help you in learning various bible vers
 [BibleVerseWidget](https://github.com/DevBuilder47/BibleApps/tree/main/BibleWidget) - Displays selected or a random verses from the 1671 King James Bible (KJV) in passive flashcard manner that floats on your screen and speaks using Text to Speech.
 
 [PrayerReminder](https://github.com/DevBuilder47/BibleApps/tree/main/PrayerReminder) - Prayer Reminder widget with autoclose and open on first computer boot of the day options.
+
+
+<!--Begin TheFreeSite.com Coding -->
+<A HREF="http://www.thefreesite.com" TARGET="_top">
+<IMG SRC="http://www.thefreesite.com/free88.gif" WIDTH="88" HEIGHT="31" ALT="The Free Site!" BORDER="0" ALIGN="BOTTOM"></A>
