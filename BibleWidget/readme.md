@@ -2,6 +2,8 @@
 BibleVerseWidget:
 -----------------
 
+![Bible Verse Widget icon](https://devbuilder47.github.io/BibleApps/BibleWidget/bible.png)
+
 Do you need an easy way to memorize bible verses while you work on your pc? If so, this Bible Verse Memorization app is for you!
 
 ![Bible Verse Widget main widget](https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget.png)
@@ -12,7 +14,7 @@ Overview:
 - You can also see the Chapter's', Book's, or the Entire Bible's Word cloud too by clicking the cloud icon.
 
 Install:
-- Install https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.18-windows-x64-installer
+- Install ![Microsoft's .Net 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.18-windows-x64-installer)
 - Download and run: ![https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_7_setup.exe](https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_7_setup.exe)
 - Double-click BibleVerseWidget.exe to run
 
@@ -100,5 +102,22 @@ Suggestions?
  - d e v @ s o u e r s . o r g
 
 
+-----------------
+Copyright (c) 2025
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software with the following restrictions, no decompiling, no modifying, no merging, no sublicensing, and/or no selling
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
