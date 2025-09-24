@@ -49,7 +49,13 @@ Acknowledgments:
     Creative Commons (Attribution 4.0 International)
     Kalash
 
+----------------- 
 
------------------
+
+Freeware Developed by [EB LLC](https://www.etchybond.com) - IT Services and Business Branding Promotional Items and Customized Items
+
+
+----------------- 
 Suggestions?
+
  - d e v @ s o u e r s . o r g
