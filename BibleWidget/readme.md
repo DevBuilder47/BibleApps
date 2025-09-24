@@ -80,7 +80,11 @@ Settings:
 Freeware Developed by [EB LLC](https://www.etchybond.com) - IT Services and Business Branding Promotional Items and Customized Items
 
 
------------------          
+-----------------
+
+[Buy Me A Coffee](https://buymeacoffee.com/devbuilder47)
+
+----------------- 
 ChangeLog:
 - v1.7 Rewrote as WPF app with latest .Net 8.0, Added fullscreen mode available through left hand expander, multiple UI enhancements and favorites support
 - v1.6 Added Word and Topic search, improved readability of multi verses and bugfixes
@@ -126,6 +130,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 
