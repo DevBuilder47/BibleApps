@@ -1,10 +1,3 @@
----
-title: "Freeware Bible Apps for Windows"
-description: "Collection of apps for Windows that will help you in learning various bible verses and passages."
-categories: [Bible,Verse Memorization,Freeware]
----
-
-
 Collection of apps for Windows that will help you in learning various bible verses and passages.
 
 [BibleVerseWidget](BibleWidget) - Displays selected or a random verses from the 1671 King James Bible (KJV) in passive flashcard manner that floats on your screen and speaks using Text to Speech.
