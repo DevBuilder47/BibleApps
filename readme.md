@@ -15,7 +15,7 @@ Collection of apps for Windows that will help you in learning various bible vers
 ----------------- 
 
 
-Freeware Developed by [EB LLC](https://www.etchybond.com) IT Services and Business Branding Promotional Items and Customized Items
+Freeware Developed by [EB LLC](https://www.etchybond.com) - IT Services and Business Branding Promotional Items and Customized Items
 
 
 ----------------- 
