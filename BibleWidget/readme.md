@@ -82,7 +82,7 @@ Freeware Developed by [EB LLC](https://www.etchybond.com) - IT Services and Busi
 
 -----------------
 
-[Buy Me A Coffee](https://buymeacoffee.com/devbuilder47)
+Do you like this freeware app and would like to support future development? If so [Buy Me A Coffee](https://buymeacoffee.com/devbuilder47)
 
 ----------------- 
 ChangeLog:
@@ -130,6 +130,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 
