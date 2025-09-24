@@ -12,6 +12,9 @@ Collection of apps for Windows that will help you in learning various bible vers
 [PrayerReminder](PrayerReminder) - Prayer Reminder widget with autoclose and open on first computer boot of the day options.
 
 
+Freeware Developed by [EB LLC](https://www.etchybond.com)
+
+
 <!--Begin TheFreeSite.com Coding -->
 <A HREF="http://www.thefreesite.com" TARGET="_top">
 <IMG SRC="http://www.thefreesite.com/free88.gif" WIDTH="88" HEIGHT="31" ALT="The Free Site!" BORDER="0" ALIGN="BOTTOM"></A>
