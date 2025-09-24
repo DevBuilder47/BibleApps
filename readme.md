@@ -8,7 +8,7 @@ Collection of apps for Windows that will help you in learning various bible vers
 Freeware Developed by [EB LLC](https://www.etchybond.com) - IT Services and Business Branding Promotional Items and Customized Items
 ----------------- 
 
-[Buy Me A Coffee](https://buymeacoffee.com/devbuilder47)
+Do you like this freeware app and would like to support future development? If so [Buy Me A Coffee](https://buymeacoffee.com/devbuilder47)
 
 ----------------- 
 
