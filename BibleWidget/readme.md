@@ -74,6 +74,8 @@ Settings:
 - "Exit" button to quit the app
 - Check for Updates
 
+----------------- 
+
 
 Freeware Developed by [EB LLC](https://www.etchybond.com) IT Services and Business Branding Promotional Items and Customized Items
 
@@ -124,5 +126,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
