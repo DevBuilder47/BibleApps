@@ -1,11 +1,15 @@
+#Windows Bible Apps
+
 Collection of apps for Windows that will help you in learning various bible verses and passages.
 
-[BibleVerseWidget](BibleWidget) - Displays selected or a random verses from the 1671 King James Bible (KJV) in passive flashcard manner that floats on your screen and speaks using Text to Speech.
+- [BibleVerseWidget](BibleWidget) - Displays selected or a random verses from the 1671 King James Bible (KJV) in passive flashcard manner that floats on your screen and speaks using Text to Speech.
 
-[PrayerReminder](PrayerReminder) - Prayer Reminder widget with autoclose and open on first computer boot of the day options.
+- [PrayerReminder](PrayerReminder) - Prayer Reminder widget with autoclose and open on first computer boot of the day options.
 
 ----------------- 
+
 Freeware Developed by [EB LLC](https://www.etchybond.com) - IT Services and Business Branding Promotional Items and Customized Items
+
 ----------------- 
 
 Do you like this freeware app and would like to support future development? If so [Buy Me A Coffee](https://buymeacoffee.com/devbuilder47)
