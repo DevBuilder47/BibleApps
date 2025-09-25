@@ -105,6 +105,7 @@ Acknowledgments:
     Creative Commons (Attribution 3.0 Unported)
     Web Lab X
 
+<script type="text/javascript" src="https://counter.websiteout.com/js/2/0/0/1"></script>
 
 -----------------
 Suggestions?
@@ -130,6 +131,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 
