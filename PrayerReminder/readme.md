@@ -2,7 +2,7 @@
 PrayerReminder:
 -----------------
 
-Do you need an easy way to rember to pray for others each day, if so this app is for you!
+Do you need an easy way to remember to pray for others each day, if so this app is for you!
 
 ![Prayer Reminders widget](https://devbuilder47.github.io/BibleApps/PrayerReminder/PrayerReminder.png)
 
@@ -64,5 +64,6 @@ Do you like this freeware app and would like to support future development? If s
 Suggestions?
 
  - d e v @ s o u e r s . o r g
+
 
 
