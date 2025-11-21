@@ -13,8 +13,8 @@ Overview:
 - You can also see the Chapter's', Book's, or the Entire Bible's Word cloud too by clicking the cloud icon.
 
 Install:
-- Install ![Microsoft's .Net 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.18-windows-x64-installer)
-- Download and run: ![DownLoad App here](https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_7_setup.exe)
+- Install <a href='https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.18-windows-x64-installer'>Microsoft's .Net 8.0 Desktop Runtime</a>
+- Download and run: <a href='https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_7_setup.exe'>https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_7_setup.exe</a>
 - Double-click BibleVerseWidget.exe to run
 
 
@@ -130,6 +130,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 
