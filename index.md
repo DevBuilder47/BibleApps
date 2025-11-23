@@ -1,3 +1,4 @@
+```html:disable-run
 ---
 title: Best Free Bible Apps for Windows 2025 – KJV Floating Verses & Prayer Widget
 description: Free lightweight Windows apps that display random KJV Bible verses with text-to-speech and remind you to pray daily. Perfect for Christian developers and desk workers.
