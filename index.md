@@ -1,3 +1,4 @@
+Free Bible Apps
 ```html:disable-run
 ---
 title: Best Free Bible Apps for Windows 2025 – KJV Floating Verses & Prayer Widget
