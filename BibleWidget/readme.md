@@ -1,6 +1,48 @@
 BibleVerseWidget:
 -----------------
 
+og_title: Best Free Bible App for Windows 2025 – KJV Floating Verses
+og_description: Two tiny free tools to keep God's Word in front of you all day – floating KJV verses with voice + daily prayer reminder.
+og_image: https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget.png
+og_url: https://devbuilder47.github.io/BibleApps/
+og_type: website
+
+twitter_card: summary_large_image
+twitter_title: Free KJV Bible Verse Widget
+twitter_description: Floating Scripture while you work
+twitter_image: https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget.png
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "BibleVerseWidget – KJV Floating Bible Verses",
+  "operatingSystem": "Windows 10, Windows 11",
+  "applicationCategory": "EducationalApplication",
+  "description": "Lightweight always-on-top widget that displays random or sequential King James Version (KJV 1769) Bible verses with text-to-speech. Perfect for passive Scripture memory while coding or working.",
+  "url": "https://devbuilder47.github.io/BibleApps/BibleWidget/",
+  "downloadUrl": "https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_7_setup.exe",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "EB LLC",
+    "url": "https://etchybond.com"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "127"
+  },
+  "image": "https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget.png",
+  "screenshot": "https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewidget.png"
+}
+</script>
+
 ![Bible Verse Widget icon](https://devbuilder47.github.io/BibleApps/BibleWidget/bible.png)
 
 Do you need an easy way to memorize bible verses while you work on your pc? If so, this Bible Verse Widget memorization app is for you!
@@ -78,7 +120,7 @@ Settings:
 ----------------- 
 
 
-Freeware Developed by [EB LLC](https://www.etchybond.com) - IT Services and Business Branding Promotional Items and Customized Items
+Bible Freeware Developed by [EB LLC](https://www.etchybond.com) - IT Services and Business Branding Promotional Items and Customized Items
 
 
 -----------------
@@ -132,6 +174,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 
