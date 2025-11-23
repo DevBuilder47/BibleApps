@@ -102,7 +102,7 @@ Here are two lightweight, distraction-free Christian apps that run natively on W
 - Fully customizable message and timing
 - Helps thousands stay spiritually disciplined
 
-[Download PrayerReminder →](https://devbuilder47.github.io/BibleApps/PrayerReminder/)
+[Download PrayerReminder →](https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/PrayerReminder/PrayerReminder_v1_0.exe)
 
 ---
 
