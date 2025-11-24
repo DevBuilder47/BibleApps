@@ -92,6 +92,7 @@ Here are two lightweight, distraction-free Christian apps that run natively on W
 - Minimal CPU/RAM usage – runs alongside VS Code, Visual Studio, etc.
 - Used daily by 100+ Christians worldwide
 
+[More information](https://devbuilder47.github.io/BibleApps/PrayerReminder/)
 [Download BibleVerseWidget →](https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_7_setup.exe)
 
 ## 2. PrayerReminder – Never Forget to Pray Again
@@ -104,6 +105,7 @@ Here are two lightweight, distraction-free Christian apps that run natively on W
 - Fully customizable message and timing
 - Helps thousands stay spiritually disciplined
 
+[More information](https://devbuilder47.github.io/BibleApps/BibleWidget/)
 [Download PrayerReminder →](https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/PrayerReminder/PrayerReminder_v1_0.exe)
 
 ---
