@@ -59,7 +59,7 @@ twitter_image: https://devbuilder47.github.io/BibleApps/BibleWidget/bibleversewi
   "applicationCategory": "LifestyleApplication",
   "description": "Tiny non-intrusive utility that shows a customizable prayer reminder once per day on first computer startup. Helps build consistent prayer habits.",
   "url": "https://devbuilder47.github.io/BibleApps/PrayerReminder/",
-  "downloadUrl": "https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/BibleWidget/BibleVerseWidget_v1_7_setup.exe",
+  "downloadUrl": "https://github.com/DevBuilder47/BibleApps/raw/refs/heads/main/PrayerReminder/PrayerReminder_v1_0.exe",
   "offers": {
     "@type": "Offer",
     "price": "0",
